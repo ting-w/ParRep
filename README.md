@@ -1,3 +1,3 @@
 # ParRep
 
-This is the repository for parallel replica dynamics algorithm written in CUDA.
+This is the repository for ParRep.
